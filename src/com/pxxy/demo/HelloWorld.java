@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Welcome to Java!");
         System.out.println("Welcome to Java again!");
         System.out.println("Welcome to Java twice!");
+        System.out.println("Welcome to clone project!");
     }
 }
